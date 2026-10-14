@@ -1,6 +1,6 @@
 # FasterAPI Demo
 
-This repository aims to explore and demonstrate **100% of the features and functions** provided by the [FasterAPI](https://github.com/rokai-developer/fasterapi) library. FasterAPI is a Spring Boot starter designed to accelerate API development with automatic CRUD operations, filtering, sorting, pagination, and more.
+This repository aims to explore and demonstrate **100% of the features and functions** provided by the [FasterAPI](https://github.com/RokaiDeveloper/FasterAPI) library. FasterAPI is a Spring Boot starter designed to accelerate API development with automatic CRUD operations, filtering, sorting, pagination, and more.
 
 ## 🎯 Purpose
 
