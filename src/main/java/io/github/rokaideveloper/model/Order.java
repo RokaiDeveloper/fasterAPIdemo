@@ -19,6 +19,7 @@ import java.util.List;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Table(name = "orders")
 @EqualsAndHashCode(callSuper = true)
 @FasterCRUD(path = "/orders")
 public class Order extends BaseEntity {
